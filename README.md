@@ -1,4 +1,4 @@
-# Stronghold File Editor
+# Simple file Editor
 
 A desktop utility built with PyQt6 for curating batches of documents before merging or exporting them. Drop in PDF, TIFF, or JPG files, reorder and rename them inline, then merge everything into a single PDF or export every page/frame as JPG.
 
@@ -67,4 +67,4 @@ deactivate
 - **PyMuPDF errors:** Some PDF files require additional fonts. Installing system fonts can resolve rendering issues.
 - **PyInstaller antivirus flags:** Signing the executable or adding the build folder to antivirus exclusions typically clears false positives.
 
-Enjoy managing your document batches with Stronghold File Editor!
+
